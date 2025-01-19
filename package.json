@@ -1,0 +1,19 @@
+{
+  "name": "pop-choice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.2",
+    "dotenv": "^16.4.7",
+    "openai": "^4.12.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
