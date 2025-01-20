@@ -1,7 +1,5 @@
-Here’s a **README.md** file for your project:
 
----
-<img width="99" alt="PopChoice Icon" src="https://github.com/user-attachments/assets/23cf0617-ef24-4423-a682-9cc122da6ce1" />
+<img width="200" alt="PopChoice Icon" src="https://github.com/user-attachments/assets/23cf0617-ef24-4423-a682-9cc122da6ce1" />
 
 # **PopChoice: AI-Powered Movie Recommendation App**
 
