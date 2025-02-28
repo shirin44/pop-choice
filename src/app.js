@@ -7,7 +7,7 @@ dotenv.config();
 
 const app = express();
 const PORT = 3000;
-
+//hi 
 // Middleware
 app.use(express.json());
 app.use(express.static("public"));
